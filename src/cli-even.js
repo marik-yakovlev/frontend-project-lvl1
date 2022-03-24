@@ -29,7 +29,6 @@ const game = () => {
       }
     }
   }
-  console.log(`Congratulations, ${userName}!`)
-  return;
+  console.log(`Congratulations, ${userName}!`);
 };
 export default game;
