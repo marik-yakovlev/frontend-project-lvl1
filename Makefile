@@ -1,7 +1,7 @@
 install:
 		sudo npm ci
 brain-games:
-		node bin/brain-progression.js
+		node bin/brain-prime.js
 publish:
 		npm publish --dry-run
 lint:
