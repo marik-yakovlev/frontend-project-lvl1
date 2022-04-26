@@ -68,6 +68,7 @@ Asciinema demonstrations:
 
 brain-games
 
+<<<<<<< HEAD
 ![brain-games-greeting](https://user-images.githubusercontent.com/101061337/165374472-f86f8c01-2075-4062-830a-277577a6212f.PNG)
 
 calculator
@@ -91,3 +92,15 @@ progression
 ![brain-progression](https://user-images.githubusercontent.com/101061337/165374926-df51c4f0-6b32-4f81-9041-dd4d0bdad412.PNG)
 
 
+=======
+
+brain-calc         https://asciinema.org/a/AptY5fNMRKx1Nb5QQ2j8wNjKQ
+
+brain-even         https://asciinema.org/a/AY7IqmuZFZ5BjHjUUtGi1C85Z
+
+brain-gcd          https://asciinema.org/a/wpDujQHJeACoRh4nZe2ayDPVh
+
+brain-prime        https://asciinema.org/a/oWDQrkGXUceMDYGjOPd016Or4
+
+brain-progression  https://asciinema.org/a/jspxiP26xYx79ejIU07v6BhrV
+>>>>>>> 9e71c5e (mentor's comments)

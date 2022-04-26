@@ -7,8 +7,8 @@ const isPrime = (num) => {
   if (num < 2) {
     return false;
   }
-  for (let j = 2; j <= num / 2; j += 1) {
-    if (num % j === 0) {
+  for (let i = 2; i <= Math.sqrt(num); i += 1) {
+    if (num % i === 0) {
       return false;
     }
   }

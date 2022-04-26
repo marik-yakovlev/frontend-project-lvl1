@@ -3,10 +3,11 @@ import getRandomNumber from '../randomNumber.js';
 
 const gameRule = 'What number is missing in the progression?';
 
-const getProgressionList = (num, length, step) => {
+const getProgressionList = (start, length, step) => {
   const list = [];
-  for (let j = num; list.length < length; j += step) {
-    list.push(j);
+  for (let i = 0; list.length < length; i += 1) {
+    const val = start + step * i;
+    list.push(val);
   }
   return list;
 };
