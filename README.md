@@ -71,16 +71,12 @@ brain-games
 
 calculator
 ![brain-calc](https://user-images.githubusercontent.com/101061337/165374515-57ef14b3-0658-48ca-9e9b-fc0b28c2e6f5.png)
-
 even
 ![brain-even](https://user-images.githubusercontent.com/101061337/165374560-a2148d65-1b2c-4812-a3db-405546223ea3.PNG)
-
 gcd
 ![brain-gcd](https://user-images.githubusercontent.com/101061337/165374608-5a3bbbe7-4a28-47eb-a59d-472c0be6f69f.PNG)
-
 prime
 ![brain-prime](https://user-images.githubusercontent.com/101061337/165374747-a92ad166-c57b-4273-a09b-1cdc42e18526.PNG)
-
 progression
 ![brain-progression](https://user-images.githubusercontent.com/101061337/165374926-df51c4f0-6b32-4f81-9041-dd4d0bdad412.PNG)
 
