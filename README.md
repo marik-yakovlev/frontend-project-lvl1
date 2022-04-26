@@ -66,14 +66,14 @@ $ brain-progression
 
 Asciinema demonstrations:
 
-brain-games        ![brain-games-greeting](https://user-images.githubusercontent.com/101061337/165371676-092c41a9-f193-4bda-9555-fb83cc3ed951.PNG)
+brain-games        ![brain-games-greeting](https://user-images.githubusercontent.com/101061337/165374472-f86f8c01-2075-4062-830a-277577a6212f.PNG)
 
-calculator         ![brain-calc](https://user-images.githubusercontent.com/101061337/165371843-ee115bd9-96da-468c-b561-996d4e42c74f.PNG)
+calculator         ![brain-calc](https://user-images.githubusercontent.com/101061337/165374515-57ef14b3-0658-48ca-9e9b-fc0b28c2e6f5.png)
 
-even               ![brain-even](https://user-images.githubusercontent.com/101061337/165371924-dcd1b0c7-75f4-4098-a070-db0851beef04.PNG)
+even               ![brain-even](https://user-images.githubusercontent.com/101061337/165374560-a2148d65-1b2c-4812-a3db-405546223ea3.PNG)
 
-gcd                ![brain-gcd](https://user-images.githubusercontent.com/101061337/165372048-ea4698fc-d78f-4927-a7f7-75da1c93ea01.PNG)
+gcd                ![brain-gcd](https://user-images.githubusercontent.com/101061337/165374608-5a3bbbe7-4a28-47eb-a59d-472c0be6f69f.PNG)
 
-prime              ![brain-prime](https://user-images.githubusercontent.com/101061337/165372096-a6e92a11-1648-41a6-8a8f-b7fd441139c8.PNG)
+prime              ![brain-prime](https://user-images.githubusercontent.com/101061337/165374747-a92ad166-c57b-4273-a09b-1cdc42e18526.PNG)
 
-progression        ![brain-progression](https://user-images.githubusercontent.com/101061337/165372152-ab02585d-15a2-474e-9a43-40c2d1aa7b7c.PNG)
+progression        ![brain-progression](https://user-images.githubusercontent.com/101061337/165374926-df51c4f0-6b32-4f81-9041-dd4d0bdad412.PNG)
