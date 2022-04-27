@@ -8,7 +8,7 @@ const isEven = (number) => !(number % 2);
 const gameData = () => {
   const number = getRandomNumber(0, 100);
   const question = String(number);
-  const answer = isEven(question)? 'yes' : 'no';
+  const answer = isEven(question) ? 'yes' : 'no';
   return [question, answer];
 };
 
