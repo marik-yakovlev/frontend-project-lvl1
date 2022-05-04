@@ -1,8 +1,9 @@
 import gameEngine from '../index.js';
 import getRandomNumber from '../randomNumber.js';
-import listOfOperators from '../operators.js';
 
 const gameRule = 'What is the result of the expression?';
+
+const listOfOperators = ['+', '-', '*'];
 
 const getCalculator = (num1, operator, num2) => {
   switch (operator) {
@@ -20,8 +21,8 @@ const getCalculator = (num1, operator, num2) => {
 const gameData = () => {
   const randomNum1 = getRandomNumber(1, 10);
   const randomNum2 = getRandomNumber(1, 10);
-  const randomIntdex = getRandomNumber(0, listOfOperators.length - 1);
-  const randomOperator = listOfOperators[randomIntdex];
+  const randomIndex = getRandomNumber(0, listOfOperators.length - 1);
+  const randomOperator = listOfOperators[randomIndex];
   const correctAnswer = String(getCalculator(randomNum1, randomOperator, randomNum2));
   const question = `${randomNum1} ${randomOperator} ${randomNum2}`;
   return [question, correctAnswer];
