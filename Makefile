@@ -2,7 +2,7 @@ install:
 		sudo npm ci
 brain-games:
 		node bin/brain-games.js
-brain-calculator:
+brain-calc:
 		node bin/brain-calc.js
 brain-even:
 		node bin/brain-even.js
