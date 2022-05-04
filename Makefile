@@ -2,15 +2,15 @@ install:
 		sudo npm ci
 brain-games:
 		node bin/brain-games.js
-calculator:
+brain-calculator:
 		node bin/brain-calc.js
-even:
+brain-even:
 		node bin/brain-even.js
-gcd:
+brain-gcd:
 		node bin/brain-gcd.js
-prime:
+brain-prime:
 		node bin/brain-prime.js
-progression:
+brain-progression:
 		node bin/brain-progression.js
 publish:
 		npm publish --dry-run
